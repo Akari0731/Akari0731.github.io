@@ -21,11 +21,7 @@ function setGradient() {
 	color1.style.background = color1Code;
 	color2.style.background = color2Code;
 
-<<<<<<< HEAD
-	rgba.textContent = "RGBA :" + body.style.background + ";";
-=======
 	rgba.textContent = "RGBA : " + body.style.background + ";";
->>>>>>> 05a65b2643a9ffa8ab2ed8bccb0b1ba9583faa8c
 
 	hex.textContent = 
 	"HEX : linear-gradient(to right, "
