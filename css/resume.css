@@ -36,6 +36,11 @@ h3 {
   font-size: 2rem;
 }
 
+ul {
+  list-style-type: none;
+  line-height: 2;
+}
+
 p.lead {
   font-size: 1.15rem;
   font-weight: 400;
