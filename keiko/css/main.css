@@ -10,13 +10,6 @@ body{
 	margin: 0px;
 }
 
-ul {
-	list-style: none;
-}
-
-li {
-	text-decoration: none;
-}
 
 a:focus{
 	color: #fff!important;
@@ -26,16 +19,6 @@ a:focus{
 .container{
 	max-width: 1130px;
 }
-
-.clearfix img {
-	float: left;
-}
-
-
-
-
-
-
 
 
 
