@@ -12,6 +12,7 @@ body{
 
 ul {
 	list-style: none;
+	text-decoration: none;
 }
 
 a:focus{
@@ -23,6 +24,9 @@ a:focus{
 	max-width: 1130px;
 }
 
+.clearfix {
+	float: left;
+}
 
 
 
